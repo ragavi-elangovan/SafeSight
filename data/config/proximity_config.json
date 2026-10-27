@@ -1,0 +1,10 @@
+{
+    "reference_distance_cm": 60.0,
+    "reference_face_width_px": 102.0,
+    "very_close_threshold_cm": 40.0,
+    "close_threshold_cm": 70.0,
+    "medium_threshold_cm": 120.0,
+    "far_threshold_cm": 120.0,
+    "distance_filter_window": 7,
+    "distance_filter_alpha": 0.2
+}
